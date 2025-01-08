@@ -2,8 +2,6 @@ site_name: Learn Argo
 site_url: https://www.patashale.in/learn-argo/
 site_author: Patashale™
 site_description: Learn everything about Argo here at Patashale™.
-repo_url: https://github.com/patashale/learn-argo
-repo_name: patashale/learn-argo
 theme:
   name: material
   language: en
